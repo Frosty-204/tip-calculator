@@ -12,7 +12,7 @@ A simple responsive mobile friendly tip calculator with a reset button.
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
+- Solution URL: (https://github.com/Frosty-204/tip-calculator)
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
