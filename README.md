@@ -13,7 +13,7 @@ A simple responsive mobile friendly tip calculator with a reset button.
 ### Links
 
 - Solution URL: (https://github.com/Frosty-204/tip-calculator)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://tip-calculator-v01.netlify.app/)
 
 ## My process
 
