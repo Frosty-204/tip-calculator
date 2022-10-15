@@ -8,7 +8,7 @@ A simple responsive mobile friendly tip calculator with a reset button.
 
 ### Screenshot
 
-![Screenshot of the complete version.](../tip-calculator-app-main/images/screenshot.png)
+![Screenshot of the complete version.](../tip-calculator/images/screenshot.png)
 
 ### Links
 
