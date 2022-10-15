@@ -116,3 +116,9 @@ tips.forEach((tip) => {
 
 tipCustom.addEventListener("change", getCustomValue);
 resetBtn.addEventListener("click", reset);
+
+const smth = function () {
+  console.log("Git is here!");
+};
+
+smth();
