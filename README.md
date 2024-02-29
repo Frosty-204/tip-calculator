@@ -24,7 +24,7 @@ A simple responsive mobile friendly tip calculator with a reset button.
 
 ### What I learned
 
-I really went through much here 😅, looping through the tip buttons and toggeling the states was kinda weird for me, not to mention how i tried to give up when i didn't know how to seperate the custom tip from the tip buttons. So it was actually quite a decent challange for a beginner like me.
+I really went through much here , looping through the tip buttons and toggeling the states was kinda weird for me, not to mention how i tried to give up when i didn't know how to seperate the custom tip from the tip buttons. So it was actually quite a decent challange for a beginner like me.
 
 ### Useful resources
 
